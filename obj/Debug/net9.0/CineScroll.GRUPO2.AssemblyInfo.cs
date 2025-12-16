@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CineScroll.GRUPO2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af207059e8576fec6340dc15fb7e901f2085bd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f66ab4165b5a4a9c038403b56b737f2a87b49c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CineScroll.GRUPO2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CineScroll.GRUPO2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
